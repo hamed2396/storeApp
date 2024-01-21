@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540697420145",
+    "project_id": "hamedstoreapp",
+    "storage_bucket": "hamedstoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540697420145:android:a6e4067d220663c568d6d0",
+        "android_client_info": {
+          "package_name": "com.example.storeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3L6gqtPPh8oYaiKiCAb9xXmldtDdaQ4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
