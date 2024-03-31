@@ -1,4 +1,8 @@
-
-wathch whole project in here 
-
-https://dl.nouri.academy/courses/structure/store_aap_demo.mp4
+![Screenshot_20240329_182526_Store App](https://github.com/hamed2396/storeApp/assets/86206868/360b52de-c1a7-457f-b318-f286d2707d93)
+![Screenshot_20240329_182433_Store App](https://github.com/hamed2396/storeApp/assets/86206868/8cad21c8-b8cb-4b4a-a9a8-57a1a04d50ed)
+![Screenshot_20240329_182341_Store App](https://github.com/hamed2396/storeApp/assets/86206868/f9946f81-ab5e-40d9-9003-db57580f6458)
+![Screenshot_20240329_182302_Store App](https://github.com/hamed2396/storeApp/assets/86206868/cf4c3350-c798-4bba-b9eb-4faf3680a179)
+![Screenshot_20240329_182251_Store App](https://github.com/hamed2396/storeApp/assets/86206868/71b6d232-1201-413d-a222-498f80a6f1ff)
+![Screenshot_20240329_182243_Store App](https://github.com/hamed2396/storeApp/assets/86206868/997de043-d7f2-4b02-851b-0d6efe814839)
+![Screenshot_20240329_182228_Store App](https://github.com/hamed2396/storeApp/assets/86206868/5f9586b9-62f9-40b3-80d5-1f9a7de70eda)
+![Screenshot_20240329_182209_Store App](https://github.com/hamed2396/storeApp/assets/86206868/65e82242-06aa-40ae-98e0-6017327993d0)
